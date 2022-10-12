@@ -1,4 +1,4 @@
-### Hi there, I am Yaşar CANBOLAT👋
+### Hi there 👋👋
 ### Welcome my Github..
 
 - 🔭 I’m currently studying at Abdullah Gül University
