@@ -2,7 +2,7 @@
 ### Welcome my Github....
 
 - 🔭 I’m currently studying at Abdullah Gül University
-- 🌱 I’m currently learning Deep Learning
+- 🌱 I’m currently learning Embedded Systems
 - 💬 Ask me about Machine Learning and Engineering
 - 📫 How to reach me: cnbltyasar@gmail.com
 - 😄 Pronouns: he/him
