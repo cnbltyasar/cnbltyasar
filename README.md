@@ -1,14 +1,14 @@
 ### Hi there 👋👋
 ### Welcome my Github....
 
-- 🔭 I’m currently studying at Abdullah Gül University
-- 🌱 I’m currently learning Embedded Systems
-- 💬 Ask me about Machine Learning and Engineering
+- 🔭 I’m currently studying at Gebze Technical University
+- 🌱 I’m currently learning FPGA based True Random Number Generator (TRNG)
+- 💬 Ask me about Machine Learning and SoC Design
 - 📫 How to reach me: cnbltyasar@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Marvel Fan
 
-<h3 align="center">A passionate Electrical and Electronic Engineer from Turkey</h3>
+<h3 align="center">A passionate Electrical and Electronic Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cnbltyasar&label=Profile%20views&color=0e75b6&style=flat" alt="cnbltyasar" /> </p>
 
