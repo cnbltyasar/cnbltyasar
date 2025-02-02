@@ -8,7 +8,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Marvel Fan
 
-<h3 align="center">A passionate Electrical and Electronic Engineer</h3>
+<h3 align="left"> Electrical and Electronic Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cnbltyasar&label=Profile%20views&color=0e75b6&style=flat" alt="cnbltyasar" /> </p>
 
