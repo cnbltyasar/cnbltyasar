@@ -1,5 +1,5 @@
 ### Hi there 👋👋
-### Welcome my Github....
+### Welcome to my Github....
 
 - 🔭 I’m currently studying at Gebze Technical University
 - 🌱 I’m currently learning FPGA based True Random Number Generator (TRNG)
